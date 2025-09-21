@@ -22,9 +22,16 @@ Get the latest weather information and listen to curated playlists or tracks tha
 ## Music
 The relevant music playlist for the build of this application can be found in **music-list-v2.txt**.
 
+---
+
 ## 🚀 Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/weathered-notes.git
    cd weatherbeats```
+
+---
+
+## Adding Immages
+All relevant images for our interface can be found in the image repository.
